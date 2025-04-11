@@ -1,0 +1,60 @@
+baseURL = 'https://maximelucet.com/'
+languageCode = 'fr-fr'
+title = 'Maxime LUCET'
+theme = 'paige'
+# Enable smart typography (optional)
+enableSmartypants = true
+
+# Menus
+[menu]
+
+  [[menu.main]]
+  name = "CV"
+  url = "/cv/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Publications & Projects"
+  url = "/research/"
+  weight = 3
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[languages.en.params.paige.site]
+description = "PhD candidate in Computational Social Choice"
+
+[params.paige.pages]
+disable_title = true
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_next = true
+disable_prev = true
+disable_reading_time = true
+disable_series = true
+disable_toc = true
+disable_word_count = true
+disable_collections = true
+disable_pages = true
+disable_sections = true
+
+[params.paige.site]
+color = "#16b7c7"
+disable_breadcrumbs = true
+disable_credit = true
+disable_menu = false
+menu_style = "underline"
+external_link_new_tab = true
+disable_description = false
+
+
+[params.paige.subpages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_reading_time = true
+disable_series = true
+disable_summary = true
+disable_word_count = true
+

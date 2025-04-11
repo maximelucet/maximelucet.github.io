@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Maxime LUCET</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome on Maxime LUCET</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;To contact me, you can use any of the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;email: &lt;a href=&#34;mailto:maxime.lucet@lip6.fr&#34;&gt;maxime.lucet@lip6.fr&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;linkedin.com/in/maxime-lucet-9526841a6&#34;&gt;Maxime LUCET&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bachelor&amp;rsquo;s Degree in Economics at Université Paris-Dauphine-PSL (2019-2022)&lt;/li&gt;&#xA;&lt;li&gt;Master&amp;rsquo;s Degree (Year 1) in Economics at the Paris School of Economics (2022-2023)&lt;/li&gt;&#xA;&lt;li&gt;Master&amp;rsquo;s Degree (Year 2) in Operations Research at Université Paris-Dauphine-PSL (2023-2024)&lt;/li&gt;&#xA;&lt;li&gt;PhD in Computer Science at Sorbonne Université (&lt;em&gt;ongoing&lt;/em&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;teaching-experience&#34;&gt;Teaching Experience&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python, First year undergraduate students&lt;/li&gt;&#xA;&lt;li&gt;C, First year undergraduate students&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;conference-with-proceedings&#34;&gt;Conference with proceedings&lt;/h3&gt;&#xA;&lt;h3 id=&#34;workshops&#34;&gt;Workshops&lt;/h3&gt;&#xA;&lt;p&gt;Mathieu Bernard, Bénédicte Coestier, Fabienne Llense, Maxime Lucet - Environmental and climate mandatory disclosure : a paper tiger ? Evidence from France&lt;/p&gt;&#xA;&lt;h3 id=&#34;journal&#34;&gt;Journal&lt;/h3&gt;&#xA;&lt;h2 id=&#34;events&#34;&gt;Events&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Econom&amp;rsquo;IA 2025 at Université Paris-Nanterre&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

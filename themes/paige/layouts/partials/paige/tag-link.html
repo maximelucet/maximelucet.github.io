@@ -1,0 +1,45 @@
+{{ $params := . }}
+
+{{ $context := $params.context }}
+{{ $href := $params.href }}
+{{ $integrity := $params.integrity }}
+{{ $map := not hugo.IsProduction }}
+{{ $origin := $params.crossorigin | default "anonymous" }}
+{{ $page := $params.page }}
+{{ $paths := $params.includepaths }}
+{{ $policy := $params.referrerpolicy | default "no-referrer" }}
+{{ $sass := $params.sass }}
+{{ $style := cond hugo.IsProduction "compressed" "" }}
+{{ $template := $params.template }}
+
+{{ $resource := partial "paige/func-resource.html" (dict "page" $page "url" $href) }}
+
+{{ if not $href }}
+    {{ errorf "layouts/partials/paige/tag-link.html: no href" }}
+{{ end }}
+
+{{ if $resource }}
+    {{ if $template }}
+        {{ $dir := path.Dir $resource.RelPermalink }}
+        {{ $ext := path.Ext $resource.RelPermalink }}
+        {{ $hash := printf "%v%s" $context $resource.Content | sha1 }}
+        {{ $name := path.BaseName $resource.RelPermalink }}
+
+        {{ $path := printf "%s/%s.%s%s" $dir $name $hash $ext }}
+
+        {{ $resource = resources.ExecuteAsTemplate $path $context $resource }}
+    {{ end }}
+
+    {{ if $sass }}
+        {{/* TODO: Remove the silenceDeprecations option when Bootstrap is updated beyond v5.3.3. */}}
+
+        {{ $resource = $resource | toCSS (dict "enableSourceMap" $map "includePaths" $paths "outputStyle" $style "silenceDeprecations" (slice "color-functions" "global-builtin" "import" "mixed-decls") "transpiler" "dartsass") }}
+    {{ end }}
+
+    {{ $resource = $resource | minify | fingerprint }}
+
+    {{ $href = $resource.RelPermalink }}
+    {{ $integrity = $resource.Data.Integrity }}
+{{ end }}
+
+<link {{ with $origin }} crossorigin="{{ . }}" {{ end }} href="{{ $href }}" {{ with $integrity }} integrity="{{ . }}" {{ end }} {{ with $policy }} referrerpolicy="{{ . }}" {{ end }} rel="stylesheet">
