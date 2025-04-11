@@ -18,7 +18,7 @@ Here is a list of my publications.
 
 - - -
 
-Here is a list of events I might have organized.
+Here is a list of events I organized.
 
 - **[Econom'IA 2025](https://economia.sciencesconf.org/)**: Workshop aiming to explore applications of Artificial Intelligence in Economics. Organized at Université Paris-Nanterre.
 
