@@ -17,6 +17,10 @@ enableSmartypants = true
   name = "Publications & Projects"
   url = "/research/"
   weight = 3
+  
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [markup.goldmark.renderer]
 unsafe = true
