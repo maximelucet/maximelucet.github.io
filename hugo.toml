@@ -45,6 +45,7 @@ disable_sections = true
 
 [params.paige.site]
 color = "#16b7c7"
+color_scheme = "dark"
 disable_breadcrumbs = true
 disable_credit = true
 disable_menu = false
