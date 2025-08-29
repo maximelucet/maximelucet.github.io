@@ -2,7 +2,7 @@
 title = "Welcome"
 +++
 
-{{< paige/image alt="Background" class="mt-3 object-fit-cover rounded-4 shadow" src="background.png" style="height: 20rem; object-fit: cover;" >}}
+{{< paige/image alt="Background" class="mt-3 object-fit-cover rounded-4 shadow" src="background1.png" style="height: 20rem; object-fit: cover;" >}}
 
 <h1 class="fw-bold h1 text-center" style="margin-top: 2rem; color:#16b7c7">Welcome to my website!</h1>
 
