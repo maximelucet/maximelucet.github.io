@@ -24,7 +24,7 @@ More broadly, I am interested in decision theory, operations research, and netwo
 
 - - -
 
-<h1 class="fw-bold h1 text-center" style="margin-top: 2rem; color:#16b7c7">About me</h1>
+<h1 class="fw-bold h1 text-center" style="margin-top: 2rem; color:#16b7c7">Background</h1>
 
 - - -
 
