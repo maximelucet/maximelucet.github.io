@@ -1,31 +1,19 @@
 +++
-title = "Curriculum Vitae"
+title = "Teachings"
 layout = "single"
 +++
 
-<h1 class="fw-bold h1 text-center" style="margin-top: 2rem">Curriculum Vitae</h1>
-
-- - -
-
-# **Education**
-
-- **Since 2024**: PhD in Computer Science in Fair Allocation & Computational Social Choice at [LIP6](https://www.lip6.fr/), Sorbonne Université, Paris, France.
-  
-  PhD thesis on **_Multilevel Fair Division_** under the supervision of [Nawal BENABBOU](https://benabbou.lip6.fr/), [Aurélie BEYNIER](https://webia.lip6.fr/~beyniera/), [Nicolas MAUDET](https://nmaudet.gitlab.io/).
-  
-- **2023-2024**: Master's Degree in Operations Research at Université Paris-Dauphine-PSL.
-
-- **2022-2023**: Master's Degree in Economics at the Paris School of Economics.
-
-- **2019-2022**: Bachelor's Degree in Economics at Université Paris-Dauphine-PSL.
+<h1 class="fw-bold h1 text-center" style="margin-top: 2rem">Teachings</h1>
   
 - - -
 
-# **Teaching Experience**
+- **2024-2025 | S1**: Python programming for 1st-year students at Sorbonne Université.
 
-- **2024**: Python programming for 1st-year students at Sorbonne Université.
+- **2024-2025 | S2**: C programming for 1st-year students at Sorbonne Université.
 
-- **2025**: C programming for 1st-year students at Sorbonne Université.
+- **2025-2026 | S1**: Data structure for 2nd-year students at Sorbonne Université.
+
+- **2025-2026 | S2**: AI & Games for 3rd-year students at Sorbonne Université.
 
 <footer class="text-center" style="margin-top: 3rem; padding: 1rem; color: #777;">
   <hr>

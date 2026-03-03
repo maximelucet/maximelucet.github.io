@@ -9,13 +9,13 @@ enableSmartypants = true
 [menu]
 
   [[menu.main]]
-  name = "CV"
-  url = "/cv/"
+  name = "Publications & Projects"
+  url = "/research/"
   weight = 2
 
   [[menu.main]]
-  name = "Publications & Projects"
-  url = "/research/"
+  name = "Teachings"
+  url = "/cv/"
   weight = 3
   
 [caches]
