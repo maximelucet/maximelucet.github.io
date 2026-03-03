@@ -10,7 +10,9 @@ Here is a list of my publications.
 
 # **Working Papers**:
 
-- **[Multilevel Fair Allocation](https://arxiv.org/abs/2512.24105)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. ArXiv, 2025.
+- **[Multilevel Fair Allocation with Matroid-Rank Valuations](https://arxiv.org/abs/2512.24105)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. ArXiv, 2025.
+
+- **[Multilevel Fair Allocation with Additive Valuations]()**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. 2025.
 
 <!--
 ## International Journals:
@@ -24,7 +26,7 @@ Here is a list of my publications.
 
 # **National Conferences**:
 
-- **[Partage équitable multiniveaux avec des préférences additives](/files/lucet_al_al2026_ROADEF.pdf)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. *ROADEF*, Tours, 2026.
+- **[Partage équitable multiniveaux avec des préférences additives](/files/lucet_et_al2026_ROADEF.pdf)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. *ROADEF*, Tours, 2026.
 
 - **[Environmental and climate mandatory disclosure : a paper tiger ? Evidence from France](/files/bernard_et_al2024.pdf)**. Mathieu Bernard, Bénédicte Coestier, Fabienne Llense, Maxime Lucet. *Digital Humanities*, Bordeaux, 2023.
 
