@@ -12,7 +12,7 @@ Here is a list of my publications.
 
 - **[Multilevel Fair Allocation with Matroid-Rank Valuations](https://arxiv.org/abs/2512.24105)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. ArXiv, 2025.
 
-- **[Multilevel Fair Allocation with Additive Valuations]()**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. 2025.
+- **[Multilevel Fair Allocation with Additive Valuations](/files/lucet_et_al2026.pdf)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. 2025.
 
 <!--
 ## International Journals:
