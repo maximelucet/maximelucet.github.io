@@ -42,11 +42,13 @@ I had the pleasure to co-organize the following workshops.
 
 - **[Econom'IA 2025](https://economia.sciencesconf.org/resource/page/id/13)**: Workshop aiming to explore applications of Artificial Intelligence in Economics. Organized at Université Paris-Nanterre.
 
-- - - 
+- - -
 
-Some popularization events I participated in.
+Miscellaneous:
 
-- **[Pari(s) des Sciences 2026](https://www.paris.fr/pages/le-pari-s-des-sciences-32800)**: Popularization event meant to show to elementary and middle school students what science is about. Organized at the 18th *arrondissement* town hall. 
+- I had the pleasure to participate at the **[4th Amsterdam/Saint-Etienne workshop on Social Choice](https://sites.google.com/view/amsterdam-saint-etienne-2026/)**, where I presented a [poster](/files/poster_saint_etienne2026.pdf). 
+
+- I had the pleasure to participate at the **[Pari(s) des Sciences 2026](https://www.paris.fr/pages/le-pari-s-des-sciences-32800)** -- a popularization event meant to explain some science to elementary and middle school students. Organized at the 18th *arrondissement* town hall.
 
 <footer class="text-center" style="margin-top: 3rem; padding: 1rem; color: #777;">
   <hr>
