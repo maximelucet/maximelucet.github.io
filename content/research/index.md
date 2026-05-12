@@ -26,7 +26,7 @@ Here is a list of my publications.
 
 # **National Conferences**:
 
-- **[Multilevel Fair Allocation with Matroid-Rank Preferences]()**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. *PFIA*, Arras, 2026.
+- **[Partage équitable multiniveaux avec des préférences de type rang de matroïde](/files/lucet_et_al2026_PFIA.pdf)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. *PFIA*, Arras, 2026.
 
 - **[Partage équitable multiniveaux avec des préférences additives](/files/lucet_et_al2026_ROADEF.pdf)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. *ROADEF*, Tours, 2026.
 
