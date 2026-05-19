@@ -1,9 +1,10 @@
-baseURL = 'https://maximelucet.com/'
+baseURL = 'https://maximelucet.github.io/'
 languageCode = 'fr-fr'
 title = 'Maxime LUCET'
 theme = 'paige'
 # Enable smart typography (optional)
 enableSmartypants = true
+enableRobotsTXT = true
 
 # Menus
 [menu]
