@@ -12,17 +12,18 @@ Here is a list of my publications.
 
 - **[Multilevel Fair Allocation with Matroid-Rank Valuations](https://arxiv.org/abs/2512.24105)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. ArXiv, 2025.
 
-- **[Multilevel Fair Allocation with Additive Valuations](/files/lucet_et_al2026.pdf)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. 2025.
-
 <!--
 ## International Journals:
-
+-->
 
 ## International Conferences with Proceedings:
 
+- **[Multilevel Fair Allocation with Additive Valuations]()**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. In *Proceedings of the Algorithmic Decision Theory: 9th International Conference (ADT-26)*, Paris, France, November 16-18, 2026.
 
-## International Conferences/Workshops:
--->
+## International Workshops:
+- **Multilevel Fair Allocation with Matroid-Rank Valuations**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. In the *4th IJCAI Workshop on Computational Fair Division*, Bremen, Germany, August 17th, 2026.
+
+- **Multilevel Fair Allocation with Additive Valuations**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. In the *4th IJCAI Workshop on Computational Fair Division*, Bremen, Germany, August 17th, 2026.
 
 # **National Conferences**:
 

@@ -7,13 +7,17 @@ layout = "single"
   
 - - -
 
-- **2024-2025 | Semester 1**: Python programming for 1st-year students at Sorbonne Université.
+- **2024-2025 | Semester 1**: Python programming for 1st-year Bachelor students at Sorbonne Université.
 
-- **2024-2025 | Semester 2**: C programming for 1st-year students at Sorbonne Université.
+- **2024-2025 | Semester 2**: C programming for 1st-year Bachelor students at Sorbonne Université.
 
-- **2025-2026 | Semester 1**: Data structure for 2nd-year students at Sorbonne Université.
+- **2025-2026 | Semester 1**: Data structure for 2nd-year Bachelor students at Sorbonne Université.
 
-- **2025-2026 | Semester 2**: AI & Games for 3rd-year students at Sorbonne Université.
+- **2025-2026 | Semester 2**: AI & Games for 3rd-year Bachelor students at Sorbonne Université.
+
+- **2026-2027 | Semester 1**: Logic and Knowledge Representation for 1st-year Master students at Sorbonne Université.
+
+- **2026-2027 | Semester 2**: AI & Games for 3rd-year Bachelor students at Sorbonne Université.
 
 <footer class="text-center" style="margin-top: 3rem; padding: 1rem; color: #777;">
   <hr>
