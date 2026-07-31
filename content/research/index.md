@@ -8,7 +8,7 @@ title = "Research"
 
 Here is a list of my publications. 
 
-# **Working Papers**:
+## **Working Papers**:
 
 - **[Multilevel Fair Allocation with Matroid-Rank Valuations](https://arxiv.org/abs/2512.24105)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. ArXiv, 2025.
 
@@ -25,7 +25,7 @@ Here is a list of my publications.
 
 - **Multilevel Fair Allocation with Additive Valuations**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. In the *4th IJCAI Workshop on Computational Fair Division*, Bremen, Germany, August 17th, 2026.
 
-# **National Conferences**:
+## **National Conferences**:
 
 - **[Partage équitable multiniveaux avec des préférences de type rang de matroïde](/files/lucet_et_al2026_PFIA.pdf)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. *PFIA*, Arras, 2026.
 
