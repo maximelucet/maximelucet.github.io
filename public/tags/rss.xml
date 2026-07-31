@@ -37,6 +37,8 @@
 <rss version="2.0"  xml:lang="fr-fr"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
+            <copyright>Maxime Lucet — PhD candidate at LIP6 · maxime.lucet@lip6.fr · LinkedIn</copyright>
+        
 
         
 
@@ -49,21 +51,21 @@
         
 
         
-            <link>https://maximelucet.com/tags/</link>
+            <link>http://localhost:1313/tags/</link>
         
 
         
-            <atom:link href="https://maximelucet.com/tags/rss.xml" hreflang="fr-fr" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/tags/rss.xml" hreflang="fr-fr" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="https://maximelucet.com/tags/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+            <atom:link href="http://localhost:1313/tags/" hreflang="fr-fr" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="https://maximelucet.com/tags/rss.xml" hreflang="fr-fr" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/tags/rss.xml" hreflang="fr-fr" rel="alternate" type="application/rss+xml"/>
         
 
         

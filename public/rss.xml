@@ -27,6 +27,8 @@
 <rss version="2.0"  xml:lang="fr-fr"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
+            <copyright>Maxime Lucet — PhD candidate at LIP6 · maxime.lucet@lip6.fr · LinkedIn</copyright>
+        
 
         
             <description>PhD candidate in Computational Social Choice</description>
@@ -41,21 +43,21 @@
         
 
         
-            <link>https://maximelucet.com/</link>
+            <link>http://localhost:1313/</link>
         
 
         
-            <atom:link href="https://maximelucet.com/rss.xml" hreflang="fr-fr" rel="self" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/rss.xml" hreflang="fr-fr" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="https://maximelucet.com/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+            <atom:link href="http://localhost:1313/" hreflang="fr-fr" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="https://maximelucet.com/rss.xml" hreflang="fr-fr" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="http://localhost:1313/rss.xml" hreflang="fr-fr" rel="alternate" type="application/rss+xml"/>
         
 
         
@@ -94,15 +96,15 @@
                     
 
                     
-                        <description><![CDATA[<h1 class="fw-bold h1 text-center" style=margin-top:2rem>Contact</h1><hr><p>To contact me, you can use any of the following:</p><ul><li>Email: <a href=mailto:maxime.lucet@lip6.fr rel=external target=_blank>maxime.lucet@lip6.fr</a></li><li>LinkedIn: <a href=https://linkedin.com/in/maxime-lucet-9526841a6 rel=external target=_blank>Maxime LUCET</a></li></ul><footer class=text-center style=margin-top:3rem;padding:1rem;color:#777><hr><p>Maxime Lucet — PhD candidate at <a href=https://www.lip6.fr/ target=_blank>LIP6</a></p><p><a href=https://maximelucet.com/contact/>maxime.lucet@lip6.fr</a> | <a href=https://linkedin.com/in/maxime-lucet-9526841a6 target=_blank>LinkedIn</a></p></footer>]]></description>
+                        <description><![CDATA[<h1 class=section-title>Projects</h1><hr><h2 id=workshops-organized><span class=entry-heading-organizer>Workshops Organized</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href="https://economia.sciencesconf.org/?lang=en" target=_blank rel=noopener>Econom'IA 2026</a></p><p class=entry-meta><span class="badge badge-organizer">Organizer</span> Workshop on applications of Artificial Intelligence in Economics · CY Cergy Paris Université · May 27-28, 2026</p></div><div class=entry><p class=entry-title><a href=https://economia.sciencesconf.org/resource/page/id/13 target=_blank rel=noopener>Econom'IA 2025</a></p><p class=entry-meta><span class="badge badge-organizer">Organizer</span> Workshop on applications of Artificial Intelligence in Economics · Université Paris-Nanterre · May 19-20, 2025</p></div></div><h2 id=talks--outreach><span class=entry-heading-talk>Talks & Outreach</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href=https://sites.google.com/view/amsterdam-saint-etienne-2026/ target=_blank rel=noopener>4th Amsterdam/Saint-Étienne Workshop on Social Choice</a></p><p class=entry-meta><span class="badge badge-talk">Poster</span> Presented a<a href=http://localhost:1313/files/poster_saint_etienne2026.pdf target=_blank rel=noopener>poster</a> · 2026</p></div><div class=entry><p class=entry-title>Pari(s) des Sciences 2026</p><p class=entry-meta><span class="badge badge-talk">Outreach</span> Popularization event explaining research to elementary and middle school students · 18th <em>arrondissement</em> town hall, Paris</p></div></div>]]></description>
                     
 
                     
-                        <guid isPermaLink="false">tag:maximelucet.com,0001-01-01:/contact/</guid>
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/projects/</guid>
                     
 
                     
-                        <link>https://maximelucet.com/contact/</link>
+                        <link>http://localhost:1313/projects/</link>
                     
 
                     
@@ -110,7 +112,7 @@
 
                         
 
-                        <atom:link href="https://maximelucet.com/contact/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/projects/" hreflang="fr-fr" rel="alternate" type="text/html"/>
                     
 
                     
@@ -120,7 +122,7 @@
                     
 
                     
-                        <title>Contact</title>
+                        <title>Projects</title>
                     
                 </item>
             
@@ -150,22 +152,15 @@
                     
 
                     
-                        <description><![CDATA[<h1 class="fw-bold h1 text-center" style=margin-top:2rem>Publications</h1><hr><p>Here is a list of my publications.</p><h1 id=working-papers><strong>Working Papers</strong>:</h1><ul><li><p><strong><a href=https://arxiv.org/abs/2512.24105 rel=external target=_blank>Multilevel Fair Allocation with Matroid-Rank Valuations</a>
-</strong>. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. ArXiv, 2025.</p></li><li><p><strong><a>Multilevel Fair Allocation with Additive Valuations</a>
-</strong>. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. 2025.</p></li></ul><h1 id=national-conferences><strong>National Conferences</strong>:</h1><ul><li><p><strong><a href=https://maximelucet.com/files/lucet_et_al2026_ROADEF.pdf>Partage équitable multiniveaux avec des préférences additives</a>
-</strong>. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. <em>ROADEF</em>, Tours, 2026.</p></li><li><p><strong><a href=https://maximelucet.com/files/bernard_et_al2024.pdf>Environmental and climate mandatory disclosure : a paper tiger ? Evidence from France</a>
-</strong>. Mathieu Bernard, Bénédicte Coestier, Fabienne Llense, Maxime Lucet. <em>Digital Humanities</em>, Bordeaux, 2023.</p></li></ul><hr><h1 class="fw-bold h1 text-center" style=margin-top:2rem>Other projects</h1><hr><p>I had the pleasure to co-organize the following workshops.</p><ul><li><p><strong><a href="https://economia.sciencesconf.org/?lang=en" rel=external target=_blank>Econom&rsquo;IA 2026</a>
-</strong>: Workshop aiming to explore applications of Artificial Intelligence in Economics. Organized at CY Cergy Paris Université.</p></li><li><p><strong><a href=https://economia.sciencesconf.org/resource/page/id/13 rel=external target=_blank>Econom&rsquo;IA 2025</a>
-</strong>: Workshop aiming to explore applications of Artificial Intelligence in Economics. Organized at Université Paris-Nanterre.</p></li></ul><hr><p>Some popularization events I participated in.</p><ul><li><strong><a href=https://www.paris.fr/pages/le-pari-s-des-sciences-32800 rel=external target=_blank>Pari(s) des Sciences 2026</a>
-</strong>: Popularization event meant to show to elementary and middle school students what science is about. Organized at the 18th <em>arrondissement</em> town hall.</li></ul><footer class=text-center style=margin-top:3rem;padding:1rem;color:#777><hr><p>Maxime Lucet — PhD candidate at <a href=https://www.lip6.fr/ target=_blank>LIP6</a></p><p><a href=https://maximelucet.com/contact/>maxime.lucet@lip6.fr</a> | <a href=https://linkedin.com/in/maxime-lucet-9526841a6 target=_blank>LinkedIn</a></p></footer>]]></description>
+                        <description><![CDATA[<h1 class=section-title>Publications</h1><hr><p>Here is a list of my publications.</p><h2 id=working-papers><span class=entry-heading-preprint>Working Papers</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href=https://arxiv.org/abs/2512.24105 target=_blank rel=noopener>Multilevel Fair Allocation with Matroid-Rank Valuations</a></p><p class=entry-meta><span class="badge badge-preprint">Preprint</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>ArXiv</em> · 2025</p></div></div><h2 id=international-conferences-with-proceedings><span class=entry-heading-international>International Conferences with Proceedings</span></h2><div class=entry-list><div class=entry><p class=entry-title>Multilevel Fair Allocation with Additive Valuations</p><p class=entry-meta><span class="badge badge-international">International</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>Proceedings of the 9th International Conference on Algorithmic Decision Theory (ADT-26)</em> · Paris, France, November 16-18, 2026</p></div></div><h2 id=international-workshops><span class=entry-heading-workshop>International Workshops</span></h2><div class=entry-list><div class=entry><p class=entry-title>Multilevel Fair Allocation with Matroid-Rank Valuations</p><p class=entry-meta><span class="badge badge-workshop">Workshop</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>4th IJCAI Workshop on Computational Fair Division</em> · Bremen, Germany, August 17, 2026</p></div><div class=entry><p class=entry-title>Multilevel Fair Allocation with Additive Valuations</p><p class=entry-meta><span class="badge badge-workshop">Workshop</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>4th IJCAI Workshop on Computational Fair Division</em> · Bremen, Germany, August 17, 2026</p></div></div><h2 id=national-conferences><span class=entry-heading-national>National Conferences</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href=http://localhost:1313/files/lucet_et_al2026_PFIA.pdf target=_blank rel=noopener>Partage équitable multiniveaux avec des préférences de type rang de matroïde</a></p><p class=entry-meta><span class="badge badge-national">National</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>PFIA</em> · Arras, 2026</p></div><div class=entry><p class=entry-title><a href=http://localhost:1313/files/lucet_et_al2026_ROADEF.pdf target=_blank rel=noopener>Partage équitable multiniveaux avec des préférences additives</a></p><p class=entry-meta><span class="badge badge-national">National</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>ROADEF</em> · Tours, 2026</p></div><div class=entry><p class=entry-title><a href=http://localhost:1313/files/bernard_et_al2024.pdf target=_blank rel=noopener>Environmental and climate mandatory disclosure: a paper tiger? Evidence from France</a></p><p class=entry-meta><span class="badge badge-national">National</span> Mathieu Bernard, Bénédicte Coestier, Fabienne Llense, Maxime Lucet · <em>Digital Humanities</em> · Bordeaux, 2023</p></div></div>]]></description>
                     
 
                     
-                        <guid isPermaLink="false">tag:maximelucet.com,0001-01-01:/research/</guid>
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/research/</guid>
                     
 
                     
-                        <link>https://maximelucet.com/research/</link>
+                        <link>http://localhost:1313/research/</link>
                     
 
                     
@@ -173,7 +168,7 @@
 
                         
 
-                        <atom:link href="https://maximelucet.com/research/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/research/" hreflang="fr-fr" rel="alternate" type="text/html"/>
                     
 
                     
@@ -213,15 +208,15 @@
                     
 
                     
-                        <description><![CDATA[<h1 class="fw-bold h1 text-center" style=margin-top:2rem>Teachings</h1><hr><ul><li><p><strong>2024-2025 | Semester 1</strong>: Python programming for 1st-year students at Sorbonne Université.</p></li><li><p><strong>2024-2025 | Semester 2</strong>: C programming for 1st-year students at Sorbonne Université.</p></li><li><p><strong>2025-2026 | Semester 1</strong>: Data structure for 2nd-year students at Sorbonne Université.</p></li><li><p><strong>2025-2026 | Semester 2</strong>: AI & Games for 3rd-year students at Sorbonne Université.</p></li></ul><footer class=text-center style=margin-top:3rem;padding:1rem;color:#777><hr><p>Maxime Lucet — PhD candidate at <a href=https://www.lip6.fr/ target=_blank>LIP6</a></p><p><a href=https://maximelucet.com/contact/>maxime.lucet@lip6.fr</a> | <a href=https://linkedin.com/in/maxime-lucet-9526841a6 target=_blank>LinkedIn</a></p></footer>]]></description>
+                        <description><![CDATA[<h1 class=section-title>Teachings</h1><hr><div class=term-list><div class=term><p class=term-label>2024–2025 · Semester 1</p><p class=term-course>Python programming — 1st-year Bachelor, Sorbonne Université</p></div><div class=term><p class=term-label>2024–2025 · Semester 2</p><p class=term-course>C programming — 1st-year Bachelor, Sorbonne Université</p></div><div class=term><p class=term-label>2025–2026 · Semester 1</p><p class=term-course>Data structures — 2nd-year Bachelor, Sorbonne Université</p></div><div class=term><p class=term-label>2025–2026 · Semester 2</p><p class=term-course>AI & Games — 3rd-year Bachelor, Sorbonne Université</p></div><div class=term><p class=term-label>2026–2027 · Semester 1</p><p class=term-course>Logic and Knowledge Representation — 1st-year Master, Sorbonne Université</p></div><div class=term><p class=term-label>2026–2027 · Semester 2</p><p class=term-course>AI & Games — 3rd-year Bachelor, Sorbonne Université</p></div></div>]]></description>
                     
 
                     
-                        <guid isPermaLink="false">tag:maximelucet.com,0001-01-01:/cv/</guid>
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/cv/</guid>
                     
 
                     
-                        <link>https://maximelucet.com/cv/</link>
+                        <link>http://localhost:1313/cv/</link>
                     
 
                     
@@ -229,7 +224,7 @@
 
                         
 
-                        <atom:link href="https://maximelucet.com/cv/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+                        <atom:link href="http://localhost:1313/cv/" hreflang="fr-fr" rel="alternate" type="text/html"/>
                     
 
                     

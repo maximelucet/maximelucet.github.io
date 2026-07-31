@@ -2,61 +2,67 @@
 title = "Research"
 +++
 
-<h1 class="fw-bold h1 text-center" style="margin-top: 2rem">Publications</h1>
+<h1 class="section-title">Publications</h1>
 
 - - -
 
-Here is a list of my publications. 
+Here is a list of my publications.
 
-## **Working Papers**:
+## <span class="entry-heading-preprint">Working Papers</span>
 
-- **[Multilevel Fair Allocation with Matroid-Rank Valuations](https://arxiv.org/abs/2512.24105)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. ArXiv, 2025.
+<div class="entry-list">
 
-<!--
-## International Journals:
--->
+<div class="entry">
+<p class="entry-title"><a href="https://arxiv.org/abs/2512.24105" target="_blank" rel="noopener">Multilevel Fair Allocation with Matroid-Rank Valuations</a></p>
+<p class="entry-meta"><span class="badge badge-preprint">Preprint</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>ArXiv</em> · 2025</p>
+</div>
 
-## International Conferences with Proceedings:
+</div>
 
-- **[Multilevel Fair Allocation with Additive Valuations]()**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. In *Proceedings of the Algorithmic Decision Theory: 9th International Conference (ADT-26)*, Paris, France, November 16-18, 2026.
+## <span class="entry-heading-international">International Conferences with Proceedings</span>
 
-## International Workshops:
-- **Multilevel Fair Allocation with Matroid-Rank Valuations**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. In the *4th IJCAI Workshop on Computational Fair Division*, Bremen, Germany, August 17th, 2026.
+<div class="entry-list">
 
-- **Multilevel Fair Allocation with Additive Valuations**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. In the *4th IJCAI Workshop on Computational Fair Division*, Bremen, Germany, August 17th, 2026.
+<div class="entry">
+<p class="entry-title">Multilevel Fair Allocation with Additive Valuations</p>
+<p class="entry-meta"><span class="badge badge-international">International</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>Proceedings of the 9th International Conference on Algorithmic Decision Theory (ADT-26)</em> · Paris, France, November 16-18, 2026</p>
+</div>
 
-## **National Conferences**:
+</div>
 
-- **[Partage équitable multiniveaux avec des préférences de type rang de matroïde](/files/lucet_et_al2026_PFIA.pdf)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. *PFIA*, Arras, 2026.
+## <span class="entry-heading-workshop">International Workshops</span>
 
-- **[Partage équitable multiniveaux avec des préférences additives](/files/lucet_et_al2026_ROADEF.pdf)**. Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet. *ROADEF*, Tours, 2026.
+<div class="entry-list">
 
-- **[Environmental and climate mandatory disclosure : a paper tiger ? Evidence from France](/files/bernard_et_al2024.pdf)**. Mathieu Bernard, Bénédicte Coestier, Fabienne Llense, Maxime Lucet. *Digital Humanities*, Bordeaux, 2023.
+<div class="entry">
+<p class="entry-title">Multilevel Fair Allocation with Matroid-Rank Valuations</p>
+<p class="entry-meta"><span class="badge badge-workshop">Workshop</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>4th IJCAI Workshop on Computational Fair Division</em> · Bremen, Germany, August 17, 2026</p>
+</div>
 
-- - -
+<div class="entry">
+<p class="entry-title">Multilevel Fair Allocation with Additive Valuations</p>
+<p class="entry-meta"><span class="badge badge-workshop">Workshop</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>4th IJCAI Workshop on Computational Fair Division</em> · Bremen, Germany, August 17, 2026</p>
+</div>
 
-<h1 class="fw-bold h1 text-center" style="margin-top: 2rem">Other projects</h1>
+</div>
 
-- - -
+## <span class="entry-heading-national">National Conferences</span>
 
-I had the pleasure to co-organize the following workshops.
+<div class="entry-list">
 
-- **[Econom'IA 2026](https://economia.sciencesconf.org/?lang=en)**: Workshop aiming to explore applications of Artificial Intelligence in Economics. Organized at CY Cergy Paris Université.
+<div class="entry">
+<p class="entry-title"><a href="/files/lucet_et_al2026_PFIA.pdf" target="_blank" rel="noopener">Partage équitable multiniveaux avec des préférences de type rang de matroïde</a></p>
+<p class="entry-meta"><span class="badge badge-national">National</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>PFIA</em> · Arras, 2026</p>
+</div>
 
-- **[Econom'IA 2025](https://economia.sciencesconf.org/resource/page/id/13)**: Workshop aiming to explore applications of Artificial Intelligence in Economics. Organized at Université Paris-Nanterre.
+<div class="entry">
+<p class="entry-title"><a href="/files/lucet_et_al2026_ROADEF.pdf" target="_blank" rel="noopener">Partage équitable multiniveaux avec des préférences additives</a></p>
+<p class="entry-meta"><span class="badge badge-national">National</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>ROADEF</em> · Tours, 2026</p>
+</div>
 
-- - -
+<div class="entry">
+<p class="entry-title"><a href="/files/bernard_et_al2024.pdf" target="_blank" rel="noopener">Environmental and climate mandatory disclosure: a paper tiger? Evidence from France</a></p>
+<p class="entry-meta"><span class="badge badge-national">National</span> Mathieu Bernard, Bénédicte Coestier, Fabienne Llense, Maxime Lucet · <em>Digital Humanities</em> · Bordeaux, 2023</p>
+</div>
 
-Miscellaneous:
-
-- I had the pleasure to participate at the **[4th Amsterdam/Saint-Etienne workshop on Social Choice](https://sites.google.com/view/amsterdam-saint-etienne-2026/)**, where I presented a [poster](/files/poster_saint_etienne2026.pdf). 
-
-- I had the pleasure to participate at the **[Pari(s) des Sciences 2026](https://www.paris.fr/pages/le-pari-s-des-sciences-32800)** -- a popularization event meant to explain some science to elementary and middle school students. Organized at the 18th *arrondissement* town hall.
-
-<footer class="text-center" style="margin-top: 3rem; padding: 1rem; color: #777;">
-  <hr>
-  <p> Maxime Lucet — PhD candidate at <a href="https://www.lip6.fr/" target="_blank">LIP6</a></p>
-  <p><a href="/contact/">maxime.lucet@lip6.fr</a> | <a href="https://linkedin.com/in/maxime-lucet-9526841a6" target="_blank">LinkedIn</a></p>
-</footer>
-
-
+</div>

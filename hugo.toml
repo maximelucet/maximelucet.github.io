@@ -2,6 +2,7 @@ baseURL = 'https://maximelucet.github.io/'
 languageCode = 'fr-fr'
 title = 'Maxime LUCET'
 theme = 'paige'
+copyright = "Maxime Lucet — PhD candidate at [LIP6](https://www.lip6.fr/) · [maxime.lucet@lip6.fr](mailto:maxime.lucet@lip6.fr) · [LinkedIn](https://linkedin.com/in/maxime-lucet-9526841a6)"
 # Enable smart typography (optional)
 enableSmartypants = true
 enableRobotsTXT = true
@@ -10,14 +11,24 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-  name = "Publications & Projects"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Publications"
   url = "/research/"
   weight = 2
 
   [[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+
+  [[menu.main]]
   name = "Teachings"
   url = "/cv/"
-  weight = 3
+  weight = 4
   
 [caches]
   [caches.images]
@@ -45,8 +56,8 @@ disable_pages = true
 disable_sections = true
 
 [params.paige.site]
-color = "#16b7c7"
-color_scheme = "dark"
+color = "#4F46E5"
+color_scheme = "light"
 disable_breadcrumbs = true
 disable_credit = true
 disable_menu = false
@@ -63,4 +74,218 @@ disable_reading_time = true
 disable_series = true
 disable_summary = true
 disable_word_count = true
+
+[params.paige]
+style = """
+body {
+  color: #1B1B27;
+}
+
+#paige-site-title a {
+  color: #4F46E5 !important;
+}
+
+#paige-site-description {
+  color: #5B5B66;
+}
+
+#paige-page-content {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#paige-page-content ul {
+  padding-left: 1.25rem;
+}
+
+#paige-page-content li {
+  margin-bottom: 0.75rem;
+}
+
+.section-title {
+  text-align: center;
+  font-weight: 700;
+  color: var(--bs-primary);
+  margin-top: 2rem;
+  letter-spacing: -0.01em;
+}
+
+.profile-photo {
+  display: block;
+  margin: 2rem auto 0;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--bs-primary);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.badge-international { background: #4F46E5; }
+.badge-workshop { background: #B45309; }
+.badge-national { background: #E11D48; }
+.badge-preprint { background: #64748B; }
+.badge-organizer { background: #0F766E; }
+.badge-talk { background: #7C3AED; }
+
+.entry-heading-international { color: #4F46E5; }
+.entry-heading-workshop { color: #B45309; }
+.entry-heading-national { color: #E11D48; }
+.entry-heading-preprint { color: #64748B; }
+.entry-heading-organizer { color: #0F766E; }
+.entry-heading-talk { color: #7C3AED; }
+
+.entry-list {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.entry {
+  background: #F7F7FB;
+  border: 1px solid rgba(27, 27, 39, 0.08);
+  border-radius: 10px;
+  padding: 0.9rem 1.1rem;
+}
+
+.entry-title {
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+  line-height: 1.4;
+}
+
+.entry-title a {
+  color: #1B1B27;
+  text-decoration: none;
+}
+
+.entry-title a:hover {
+  color: var(--bs-primary);
+  text-decoration: underline;
+}
+
+.entry-meta {
+  font-size: 0.85rem;
+  color: #5B5B66;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.term-list {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.term {
+  border-left: 3px solid var(--bs-primary);
+  padding: 0.1rem 0 0.1rem 1rem;
+}
+
+.term-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--bs-primary);
+  margin: 0;
+}
+
+.term-course {
+  font-weight: 600;
+  margin: 0.2rem 0 0;
+}
+
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 1.25rem 0;
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #4F46E5;
+  background: rgba(79, 70, 229, 0.08);
+  border: 1px solid rgba(79, 70, 229, 0.22);
+}
+
+.timeline {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0;
+  position: relative;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 5px;
+  top: 6px;
+  bottom: 6px;
+  width: 2px;
+  background: rgba(27, 27, 39, 0.12);
+}
+
+.timeline-item {
+  position: relative;
+  padding-left: 1.75rem;
+}
+
+.timeline-item:not(:last-child) {
+  margin-bottom: 1.25rem;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 6px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--dot-color, var(--bs-primary));
+  box-shadow: 0 0 0 3px #fff;
+}
+
+.timeline-date {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--dot-color, var(--bs-primary));
+  margin: 0;
+}
+
+.timeline-body {
+  margin: 0.2rem 0 0;
+}
+"""
 
