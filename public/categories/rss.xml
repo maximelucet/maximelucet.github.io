@@ -51,21 +51,21 @@
         
 
         
-            <link>http://localhost:1313/categories/</link>
+            <link>https://maximelucet.github.io/categories/</link>
         
 
         
-            <atom:link href="http://localhost:1313/categories/rss.xml" hreflang="fr-fr" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://maximelucet.github.io/categories/rss.xml" hreflang="fr-fr" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="http://localhost:1313/categories/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+            <atom:link href="https://maximelucet.github.io/categories/" hreflang="fr-fr" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="http://localhost:1313/categories/rss.xml" hreflang="fr-fr" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="https://maximelucet.github.io/categories/rss.xml" hreflang="fr-fr" rel="alternate" type="application/rss+xml"/>
         
 
         

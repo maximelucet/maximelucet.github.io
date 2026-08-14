@@ -43,21 +43,21 @@
         
 
         
-            <link>http://localhost:1313/</link>
+            <link>https://maximelucet.github.io/</link>
         
 
         
-            <atom:link href="http://localhost:1313/rss.xml" hreflang="fr-fr" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://maximelucet.github.io/rss.xml" hreflang="fr-fr" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="http://localhost:1313/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+            <atom:link href="https://maximelucet.github.io/" hreflang="fr-fr" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="http://localhost:1313/rss.xml" hreflang="fr-fr" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="https://maximelucet.github.io/rss.xml" hreflang="fr-fr" rel="alternate" type="application/rss+xml"/>
         
 
         
@@ -96,15 +96,15 @@
                     
 
                     
-                        <description><![CDATA[<h1 class=section-title>Projects</h1><hr><h2 id=workshops-organized><span class=entry-heading-organizer>Workshops Organized</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href="https://economia.sciencesconf.org/?lang=en" target=_blank rel=noopener>Econom'IA 2026</a></p><p class=entry-meta><span class="badge badge-organizer">Organizer</span> Workshop on applications of Artificial Intelligence in Economics · CY Cergy Paris Université · May 27-28, 2026</p></div><div class=entry><p class=entry-title><a href=https://economia.sciencesconf.org/resource/page/id/13 target=_blank rel=noopener>Econom'IA 2025</a></p><p class=entry-meta><span class="badge badge-organizer">Organizer</span> Workshop on applications of Artificial Intelligence in Economics · Université Paris-Nanterre · May 19-20, 2025</p></div></div><h2 id=talks--outreach><span class=entry-heading-talk>Talks & Outreach</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href=https://sites.google.com/view/amsterdam-saint-etienne-2026/ target=_blank rel=noopener>4th Amsterdam/Saint-Étienne Workshop on Social Choice</a></p><p class=entry-meta><span class="badge badge-talk">Poster</span> Presented a<a href=http://localhost:1313/files/poster_saint_etienne2026.pdf target=_blank rel=noopener>poster</a> · 2026</p></div><div class=entry><p class=entry-title>Pari(s) des Sciences 2026</p><p class=entry-meta><span class="badge badge-talk">Outreach</span> Popularization event explaining research to elementary and middle school students · 18th <em>arrondissement</em> town hall, Paris</p></div></div>]]></description>
+                        <description><![CDATA[<h1 class=section-title>Projects</h1><hr><h2 id=workshops-organized><span class=entry-heading-organizer>Workshops Organized</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href="https://economia.sciencesconf.org/?lang=en" target=_blank rel=noopener>Econom'IA 2026</a></p><p class=entry-meta><span class="badge badge-organizer">Organizer</span> Workshop on applications of Artificial Intelligence in Economics · CY Cergy Paris Université · May 27-28, 2026</p></div><div class=entry><p class=entry-title><a href=https://economia.sciencesconf.org/resource/page/id/13 target=_blank rel=noopener>Econom'IA 2025</a></p><p class=entry-meta><span class="badge badge-organizer">Organizer</span> Workshop on applications of Artificial Intelligence in Economics · Université Paris-Nanterre · May 19-20, 2025</p></div></div><h2 id=talks--outreach><span class=entry-heading-talk>Talks & Outreach</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href=https://sites.google.com/view/amsterdam-saint-etienne-2026/ target=_blank rel=noopener>4th Amsterdam/Saint-Étienne Workshop on Social Choice</a></p><p class=entry-meta><span class="badge badge-talk">Poster</span> Presented a<a href=https://maximelucet.github.io/files/poster_saint_etienne2026.pdf target=_blank rel=noopener>poster</a> · 2026</p></div><div class=entry><p class=entry-title>Pari(s) des Sciences 2026</p><p class=entry-meta><span class="badge badge-talk">Outreach</span> Popularization event explaining research to elementary and middle school students · 18th <em>arrondissement</em> town hall, Paris</p></div></div>]]></description>
                     
 
                     
-                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/projects/</guid>
+                        <guid isPermaLink="false">tag:maximelucet.github.io,0001-01-01:/projects/</guid>
                     
 
                     
-                        <link>http://localhost:1313/projects/</link>
+                        <link>https://maximelucet.github.io/projects/</link>
                     
 
                     
@@ -112,7 +112,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/projects/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+                        <atom:link href="https://maximelucet.github.io/projects/" hreflang="fr-fr" rel="alternate" type="text/html"/>
                     
 
                     
@@ -152,15 +152,15 @@
                     
 
                     
-                        <description><![CDATA[<h1 class=section-title>Publications</h1><hr><p>Here is a list of my publications.</p><h2 id=working-papers><span class=entry-heading-preprint>Working Papers</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href=https://arxiv.org/abs/2512.24105 target=_blank rel=noopener>Multilevel Fair Allocation with Matroid-Rank Valuations</a></p><p class=entry-meta><span class="badge badge-preprint">Preprint</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>ArXiv</em> · 2025</p></div></div><h2 id=international-conferences-with-proceedings><span class=entry-heading-international>International Conferences with Proceedings</span></h2><div class=entry-list><div class=entry><p class=entry-title>Multilevel Fair Allocation with Additive Valuations</p><p class=entry-meta><span class="badge badge-international">International</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>Proceedings of the 9th International Conference on Algorithmic Decision Theory (ADT-26)</em> · Paris, France, November 16-18, 2026</p></div></div><h2 id=international-workshops><span class=entry-heading-workshop>International Workshops</span></h2><div class=entry-list><div class=entry><p class=entry-title>Multilevel Fair Allocation with Matroid-Rank Valuations</p><p class=entry-meta><span class="badge badge-workshop">Workshop</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>4th IJCAI Workshop on Computational Fair Division</em> · Bremen, Germany, August 17, 2026</p></div><div class=entry><p class=entry-title>Multilevel Fair Allocation with Additive Valuations</p><p class=entry-meta><span class="badge badge-workshop">Workshop</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>4th IJCAI Workshop on Computational Fair Division</em> · Bremen, Germany, August 17, 2026</p></div></div><h2 id=national-conferences><span class=entry-heading-national>National Conferences</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href=http://localhost:1313/files/lucet_et_al2026_PFIA.pdf target=_blank rel=noopener>Partage équitable multiniveaux avec des préférences de type rang de matroïde</a></p><p class=entry-meta><span class="badge badge-national">National</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>PFIA</em> · Arras, 2026</p></div><div class=entry><p class=entry-title><a href=http://localhost:1313/files/lucet_et_al2026_ROADEF.pdf target=_blank rel=noopener>Partage équitable multiniveaux avec des préférences additives</a></p><p class=entry-meta><span class="badge badge-national">National</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>ROADEF</em> · Tours, 2026</p></div><div class=entry><p class=entry-title><a href=http://localhost:1313/files/bernard_et_al2024.pdf target=_blank rel=noopener>Environmental and climate mandatory disclosure: a paper tiger? Evidence from France</a></p><p class=entry-meta><span class="badge badge-national">National</span> Mathieu Bernard, Bénédicte Coestier, Fabienne Llense, Maxime Lucet · <em>Digital Humanities</em> · Bordeaux, 2023</p></div></div>]]></description>
+                        <description><![CDATA[<h1 class=section-title>Publications</h1><hr><p>Here is a list of my publications.</p><h2 id=working-papers><span class=entry-heading-preprint>Working Papers</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href=https://arxiv.org/abs/2512.24105 target=_blank rel=noopener>Multilevel Fair Allocation with Matroid-Rank Valuations</a></p><p class=entry-meta><span class="badge badge-preprint">Preprint</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>ArXiv</em> · 2025</p></div></div><h2 id=international-conferences-with-proceedings><span class=entry-heading-international>International Conferences with Proceedings</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href=https://maximelucet.github.io/files/lucet_et_al2026.pdf target=_blank rel=noopener>Multilevel Fair Allocation with Additive Valuations</a></p><p class=entry-meta><span class="badge badge-international">International</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>Proceedings of the 9th International Conference on Algorithmic Decision Theory (ADT-26)</em> · Paris, France, November 16-18, 2026</p></div></div><h2 id=international-workshops><span class=entry-heading-workshop>International Workshops</span></h2><div class=entry-list><div class=entry><p class=entry-title>Multilevel Fair Allocation with Matroid-Rank Valuations</p><p class=entry-meta><span class="badge badge-workshop">Workshop</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>4th IJCAI Workshop on Computational Fair Division</em> · Bremen, Germany, August 17, 2026</p></div><div class=entry><p class=entry-title>Multilevel Fair Allocation with Additive Valuations</p><p class=entry-meta><span class="badge badge-workshop">Workshop</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>4th IJCAI Workshop on Computational Fair Division</em> · Bremen, Germany, August 17, 2026</p></div></div><h2 id=national-conferences><span class=entry-heading-national>National Conferences</span></h2><div class=entry-list><div class=entry><p class=entry-title><a href=https://maximelucet.github.io/files/lucet_et_al2026_PFIA.pdf target=_blank rel=noopener>Partage équitable multiniveaux avec des préférences de type rang de matroïde</a></p><p class=entry-meta><span class="badge badge-national">National</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>PFIA</em> · Arras, 2026</p></div><div class=entry><p class=entry-title><a href=https://maximelucet.github.io/files/lucet_et_al2026_ROADEF.pdf target=_blank rel=noopener>Partage équitable multiniveaux avec des préférences additives</a></p><p class=entry-meta><span class="badge badge-national">National</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>ROADEF</em> · Tours, 2026</p></div><div class=entry><p class=entry-title><a href=https://maximelucet.github.io/files/bernard_et_al2024.pdf target=_blank rel=noopener>Environmental and climate mandatory disclosure: a paper tiger? Evidence from France</a></p><p class=entry-meta><span class="badge badge-national">National</span> Mathieu Bernard, Bénédicte Coestier, Fabienne Llense, Maxime Lucet · <em>Digital Humanities</em> · Bordeaux, 2023</p></div></div>]]></description>
                     
 
                     
-                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/research/</guid>
+                        <guid isPermaLink="false">tag:maximelucet.github.io,0001-01-01:/research/</guid>
                     
 
                     
-                        <link>http://localhost:1313/research/</link>
+                        <link>https://maximelucet.github.io/research/</link>
                     
 
                     
@@ -168,7 +168,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/research/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+                        <atom:link href="https://maximelucet.github.io/research/" hreflang="fr-fr" rel="alternate" type="text/html"/>
                     
 
                     
@@ -212,11 +212,11 @@
                     
 
                     
-                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/cv/</guid>
+                        <guid isPermaLink="false">tag:maximelucet.github.io,0001-01-01:/cv/</guid>
                     
 
                     
-                        <link>http://localhost:1313/cv/</link>
+                        <link>https://maximelucet.github.io/cv/</link>
                     
 
                     
@@ -224,7 +224,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/cv/" hreflang="fr-fr" rel="alternate" type="text/html"/>
+                        <atom:link href="https://maximelucet.github.io/cv/" hreflang="fr-fr" rel="alternate" type="text/html"/>
                     
 
                     
