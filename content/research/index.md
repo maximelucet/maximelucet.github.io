@@ -24,7 +24,7 @@ Here is a list of my publications.
 <div class="entry-list">
 
 <div class="entry">
-<p class="entry-title">Multilevel Fair Allocation with Additive Valuations</p>
+<p class="entry-title"><a href="files/lucet_et_al2026.pdf" target="_blank" rel="noopener">Multilevel Fair Allocation with Additive Valuations</p>
 <p class="entry-meta"><span class="badge badge-international">International</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>Proceedings of the 9th International Conference on Algorithmic Decision Theory (ADT-26)</em> · Paris, France, November 16-18, 2026</p>
 </div>
 
