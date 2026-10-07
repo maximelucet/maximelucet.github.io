@@ -17,6 +17,16 @@ Here is a list of my publications.
 <p class="entry-meta"><span class="badge badge-preprint">Preprint</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet · <em>ArXiv</em> · 2025</p>
 </div>
 
+<div class="entry">
+<p class="entry-title"> On the Convergence of Iterated Round Robin</p>
+<p class="entry-meta"><span class="badge badge-preprint">Preprint</span> Maxime Lucet, Henri Surugue, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet, Arianna Novaro · 2026</p>
+</div>
+
+<div class="entry">
+<p class="entry-title"> Weighted Fairness in Multi-User Earth Observation Satellite Scheduling </p>
+<p class="entry-meta"><span class="badge badge-preprint">Preprint</span> Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet, Gauthier Picard · 2026</p>
+</div>
+
 </div>
 
 ## <span class="entry-heading-international">International Conferences with Proceedings</span>
