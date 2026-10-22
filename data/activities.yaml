@@ -1,0 +1,50 @@
+# Sections of the Research activities page.
+#   id: colour of the section (organizer, talk, reviewer)
+#   A section has either "items", or "groups" (sub-sections, each with its own items).
+#   Groups with no items are hidden.
+# Each item: title (required), url, badge, description, details, links (label: url).
+# HTML is allowed in description and details.
+
+- id: organizer
+  title: Workshops Organized
+  items:
+    - title: Econom'IA 2026
+      url: https://economia.sciencesconf.org/?lang=en
+      badge: Organizer
+      description: Workshop on applications of Artificial Intelligence in Economics
+      details: CY Cergy Paris Université · May 27–28, 2026
+    - title: Econom'IA 2025
+      url: https://economia.sciencesconf.org/resource/page/id/13
+      badge: Organizer
+      description: Workshop on applications of Artificial Intelligence in Economics
+      details: Université Paris-Nanterre · May 19–20, 2025
+
+- id: talk
+  title: Talks & Outreach
+  items:
+    - title: AIExpress seminar
+      badge: Presentation
+      description: presented my work
+      details: "2026"
+    - title: 4th Amsterdam/Saint-Étienne Workshop on Social Choice
+      url: https://sites.google.com/view/amsterdam-saint-etienne-2026/
+      badge: Poster
+      description: Presented a poster
+      details: "2026"
+      links:
+        Poster: files/poster_saint_etienne2026.pdf
+    - title: Pari(s) des Sciences 2026
+      badge: Outreach
+      description: Popularization event explaining research to elementary and middle school students
+      details: 18th <em>arrondissement</em> town hall, Paris
+
+- id: reviewer
+  title: Reviewing
+  groups:
+    - title: Journals
+      items:
+        - title: Operations Research Letters
+          badge: Reviewer
+          details: "2026"
+    - title: Conferences
+      items: []

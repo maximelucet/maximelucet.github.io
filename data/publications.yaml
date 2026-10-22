@@ -1,0 +1,80 @@
+# Each category becomes a fold on the Publications page.
+#   id:    colour of the category (preprint, international, workshop, national)
+#   open:  true to have the fold open when the page loads
+# Each paper:
+#   title, authors (list), year            required
+#   venue, details                          optional (shown as "venue · details")
+#   links                                   optional, label: url — the title links to the first one.
+#                                           Local files go in static/files/ and are written files/name.pdf
+
+- id: preprint
+  title: Working Papers
+  badge: Preprint
+  papers:
+    - title: Multilevel Fair Allocation with Matroid-Rank Valuations
+      authors: [Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet]
+      venue: arXiv
+      year: 2025
+      links:
+        arXiv: https://arxiv.org/abs/2512.24105
+    - title: On the Convergence of Iterated Round Robin
+      authors: [Maxime Lucet, Henri Surugue, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet, Arianna Novaro]
+      year: 2026
+      links:
+        arXiv: https://arxiv.org/abs/2610.23040
+    - title: Weighted Fairness in Multi-User Earth Observation Satellite Scheduling
+      authors: [Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet, Gauthier Picard]
+      year: 2026
+
+- id: international
+  title: International Conferences with Proceedings
+  badge: International
+  papers:
+    - title: Multilevel Fair Allocation with Additive Valuations
+      authors: [Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet]
+      venue: Proceedings of the 9th International Conference on Algorithmic Decision Theory (ADT-26)
+      details: Paris, France, November 16–18
+      year: 2026
+      links:
+        arXiv: https://arxiv.org/abs/2608.24400
+
+- id: workshop
+  title: International Workshops
+  badge: Workshop
+  papers:
+    - title: Multilevel Fair Allocation with Matroid-Rank Valuations
+      authors: [Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet]
+      venue: 4th IJCAI Workshop on Computational Fair Division
+      details: Bremen, Germany, August 17
+      year: 2026
+    - title: Multilevel Fair Allocation with Additive Valuations
+      authors: [Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet]
+      venue: 4th IJCAI Workshop on Computational Fair Division
+      details: Bremen, Germany, August 17
+      year: 2026
+
+- id: national
+  title: National Conferences
+  badge: National
+  papers:
+    - title: Partage équitable multiniveaux avec des préférences de type rang de matroïde
+      authors: [Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet]
+      venue: PFIA
+      details: Arras
+      year: 2026
+      links:
+        PDF: files/lucet_et_al2026_PFIA.pdf
+    - title: Partage équitable multiniveaux avec des préférences additives
+      authors: [Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet]
+      venue: ROADEF
+      details: Tours
+      year: 2026
+      links:
+        PDF: files/lucet_et_al2026_ROADEF.pdf
+    - title: "Environmental and climate mandatory disclosure: a paper tiger? Evidence from France"
+      authors: [Mathieu Bernard, Bénédicte Coestier, Fabienne Llense, Maxime Lucet]
+      venue: Digital Humanities
+      details: Bordeaux
+      year: 2023
+      links:
+        PDF: files/bernard_et_al2024.pdf

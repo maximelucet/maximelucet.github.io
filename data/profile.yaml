@@ -1,0 +1,66 @@
+name: Maxime Lucet
+tagline: PhD candidate in Computational Social Choice
+affiliation: LIP6 · Sorbonne Université, Paris
+photo: images/photo.jpg
+email: maxime.lucet@lip6.fr
+linkedin: https://linkedin.com/in/maxime-lucet-9526841a6
+
+# Paragraphs of the "About me" section. HTML is allowed (links, <strong>, <em>).
+bio:
+  - >-
+    I am a PhD candidate at <a href="https://www.lip6.fr/">LIP6</a>, Sorbonne Université, where I work within the
+    <strong>SMA</strong> (Multiagent Systems) and <strong>Decision</strong> teams under the supervision of
+    <a href="https://benabbou.lip6.fr/">Nawal Benabbou</a>, <a href="https://webia.lip6.fr/~beyniera/">Aurélie Beynier</a>
+    and <a href="https://nmaudet.gitlab.io/">Nicolas Maudet</a>.
+  - >-
+    My research is in <a href="https://comsoc-community.org/">Computational Social Choice</a>, a field at the intersection
+    of computer science, mathematics, and economics that studies how to make collective decisions in a principled and
+    algorithmic way. It encompasses a wide range of problems such as voting, fair allocation, matching, and judgment aggregation.
+  - >-
+    I focus in particular on fair division, which studies how to allocate resources among agents or groups in a fair manner.
+    My PhD work introduces a new framework called <strong>Multilevel Fair Allocation</strong>, designed to handle fairness in
+    hierarchical structures. This setting captures situations where fairness must be ensured simultaneously across multiple
+    levels (e.g., fairly distributing vaccines across the world).
+  - >-
+    I am also particularly interested in bridging the gap between theoretical fair division and practical, real-world
+    applications. These include fair course allocation at universities, fair task allocation and scheduling in space
+    applications, and the distribution of food by charitable organizations.
+  - >-
+    More broadly, I am interested in decision theory, operations research, and network science. Feel free to reach out
+    if you would like to discuss these topics.
+
+interests:
+  - Computational Social Choice
+  - Fair Division
+  - Decision Theory
+  - Operations Research
+  - Network Science
+
+# field: cs or econ (sets the colour of the timeline dot). HTML is allowed in "text".
+background:
+  - period: Since 2024
+    field: cs
+    label: Computer Science
+    text: >-
+      PhD in Fair Allocation & Computational Social Choice at <a href="https://www.lip6.fr/">LIP6</a>, Sorbonne Université,
+      Paris, France. Thesis on <strong><em>Multilevel Fair Division</em></strong> under the supervision of
+      <a href="https://benabbou.lip6.fr/">Nawal Benabbou</a>, <a href="https://webia.lip6.fr/~beyniera/">Aurélie Beynier</a>
+      and <a href="https://nmaudet.gitlab.io/">Nicolas Maudet</a>.
+  - period: 2023–2024
+    field: cs
+    label: Computer Science
+    text: >-
+      Master's Degree in <a href="https://dauphine.psl.eu/en/training/masters-degrees/computer-science/m2-modo">Operations Research</a>
+      at Université Paris-Dauphine-PSL.
+  - period: 2022–2023
+    field: econ
+    label: Economics
+    text: >-
+      Master's Degree in <a href="https://www.parisschoolofeconomics.eu/en/teaching/pse-masters-programs/master-analysis-and-policy-in-economics/">Economics</a>
+      at the Paris School of Economics.
+  - period: 2019–2022
+    field: econ
+    label: Economics
+    text: >-
+      Bachelor's Degree in <a href="https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-applied-economics/bachelors-year-3-international-economics-and-development">Economics</a>
+      at Université Paris-Dauphine-PSL.

@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% macro entries(items) %}
+<ul class="entries">
+  {% for item in items %}
+  <li class="entry">
+    <h3 class="entry-title">{% if item.url %}<a href="{{ item.url|url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
+    {% if item.description %}<p class="entry-venue">{{ item.description|safe }}</p>{% endif %}
+    <div class="entry-meta">
+      {% if item.badge %}<span class="badge">{{ item.badge }}</span>{% endif %}
+      {% if item.details %}<span class="year">{{ item.details|safe }}</span>{% endif %}
+      {% for label, href in (item.links or {}).items() %}
+      <a class="chip" href="{{ href|url }}">{{ label }}</a>
+      {% endfor %}
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+{% endmacro %}
+
+{% block content %}
+<header class="page-header">
+  <h1>Research activities</h1>
+  <p class="lead">Event organization, talks, outreach and reviewing.</p>
+</header>
+
+{% for section in activities %}
+<section class="section cat-{{ section.id }}">
+  <h2 class="section-title"><span class="dot" aria-hidden="true"></span>{{ section.title }}</h2>
+  {% if section.groups %}
+    {% for group in section.groups if group['items'] %}
+    <h3 class="subsection-title">{{ group.title }}</h3>
+    {{ entries(group['items']) }}
+    {% endfor %}
+  {% else %}
+    {{ entries(section['items']) }}
+  {% endif %}
+</section>
+{% endfor %}
+{% endblock %}

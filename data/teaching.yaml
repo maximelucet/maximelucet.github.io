@@ -1,0 +1,33 @@
+# Most recent year first.
+- year: 2026–2027
+  courses:
+    - semester: Semester 1
+      course: Logic and Knowledge Representation
+      level: 1st-year Master
+      institution: Sorbonne Université
+    - semester: Semester 2
+      course: AI & Games
+      level: 3rd-year Bachelor
+      institution: Sorbonne Université
+
+- year: 2025–2026
+  courses:
+    - semester: Semester 1
+      course: Data Structures
+      level: 2nd-year Bachelor
+      institution: Sorbonne Université
+    - semester: Semester 2
+      course: AI & Games
+      level: 3rd-year Bachelor
+      institution: Sorbonne Université
+
+- year: 2024–2025
+  courses:
+    - semester: Semester 1
+      course: Python Programming
+      level: 1st-year Bachelor
+      institution: Sorbonne Université
+    - semester: Semester 2
+      course: C Programming
+      level: 1st-year Bachelor
+      institution: Sorbonne Université

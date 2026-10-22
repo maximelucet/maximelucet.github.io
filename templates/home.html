@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <img class="avatar" src="{{ profile.photo|url }}" alt="Portrait of {{ profile.name }}" width="168" height="168">
+  <div class="hero-text">
+    <h1>{{ profile.name }}</h1>
+    <p class="tagline">{{ profile.tagline }}</p>
+    <p class="affiliation">{{ profile.affiliation }}</p>
+    <div class="actions">
+      <a class="button button-primary" href="mailto:{{ profile.email }}">
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="m3 7 9 6 9-6" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+        Email
+      </a>
+      <a class="button" href="{{ profile.linkedin }}">LinkedIn</a>
+      <a class="button" href="{{ 'research/'|url }}">Publications</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>About me</h2>
+  <div class="prose">
+    {% for paragraph in profile.bio %}
+    <p>{{ paragraph|safe }}</p>
+    {% endfor %}
+  </div>
+  <ul class="tags" aria-label="Research interests">
+    {% for interest in profile.interests %}
+    <li>{{ interest }}</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="section">
+  <h2>Background</h2>
+  <ol class="timeline">
+    {% for step in profile.background %}
+    <li class="timeline-item field-{{ step.field }}">
+      <p class="timeline-date">{{ step.period }} · {{ step.label }}</p>
+      <p class="timeline-body">{{ step.text|safe }}</p>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endblock %}
