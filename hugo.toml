@@ -21,7 +21,7 @@ enableRobotsTXT = true
   weight = 2
 
   [[menu.main]]
-  name = "Projects"
+  name = "Research activities"
   url = "/projects/"
   weight = 3
 
@@ -139,6 +139,7 @@ body {
 .badge-preprint { background: #64748B; }
 .badge-organizer { background: #0F766E; }
 .badge-talk { background: #7C3AED; }
+.badge-reviewer { background: #0369A1; }
 
 .entry-heading-international { color: #4F46E5; }
 .entry-heading-workshop { color: #B45309; }
@@ -146,6 +147,59 @@ body {
 .entry-heading-preprint { color: #64748B; }
 .entry-heading-organizer { color: #0F766E; }
 .entry-heading-talk { color: #7C3AED; }
+.entry-heading-reviewer { color: #0369A1; }
+
+.pub-section {
+  margin: 1rem 0;
+  border-bottom: 1px solid rgba(27, 27, 39, 0.08);
+}
+
+.pub-section > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.6rem 0;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.pub-section > summary::-webkit-details-marker {
+  display: none;
+}
+
+.pub-section > summary::before {
+  content: "";
+  width: 0.55rem;
+  height: 0.55rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+.pub-section[open] > summary::before {
+  transform: rotate(45deg);
+}
+
+.pub-section > summary:hover {
+  opacity: 0.8;
+}
+
+.pub-count {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #5B5B66;
+  background: rgba(27, 27, 39, 0.06);
+  border-radius: 999px;
+  padding: 0.1rem 0.55rem;
+}
+
+.pub-section > .entry-list {
+  padding-bottom: 1rem;
+}
 
 .entry-list {
   list-style: none;

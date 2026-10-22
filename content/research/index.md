@@ -8,7 +8,8 @@ title = "Research"
 
 Here is a list of my publications.
 
-## <span class="entry-heading-preprint">Working Papers</span>
+<details class="pub-section">
+<summary><span class="entry-heading-preprint">Working Papers</span> <span class="pub-count">3</span></summary>
 
 <div class="entry-list">
 
@@ -29,7 +30,10 @@ Here is a list of my publications.
 
 </div>
 
-## <span class="entry-heading-international">International Conferences with Proceedings</span>
+</details>
+
+<details class="pub-section">
+<summary><span class="entry-heading-international">International Conferences with Proceedings</span> <span class="pub-count">1</span></summary>
 
 <div class="entry-list">
 
@@ -40,7 +44,10 @@ Here is a list of my publications.
 
 </div>
 
-## <span class="entry-heading-workshop">International Workshops</span>
+</details>
+
+<details class="pub-section">
+<summary><span class="entry-heading-workshop">International Workshops</span> <span class="pub-count">2</span></summary>
 
 <div class="entry-list">
 
@@ -56,7 +63,10 @@ Here is a list of my publications.
 
 </div>
 
-## <span class="entry-heading-national">National Conferences</span>
+</details>
+
+<details class="pub-section">
+<summary><span class="entry-heading-national">National Conferences</span> <span class="pub-count">3</span></summary>
 
 <div class="entry-list">
 
@@ -76,3 +86,5 @@ Here is a list of my publications.
 </div>
 
 </div>
+
+</details>

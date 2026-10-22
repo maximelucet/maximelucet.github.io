@@ -1,8 +1,8 @@
 +++
-title = "Projects"
+title = "Research activities"
 +++
 
-<h1 class="section-title">Projects</h1>
+<h1 class="section-title">Research activities</h1>
 
 - - -
 
@@ -35,5 +35,31 @@ title = "Projects"
 <p class="entry-title">Pari(s) des Sciences 2026</p>
 <p class="entry-meta"><span class="badge badge-talk">Outreach</span> Popularization event explaining research to elementary and middle school students · 18th <em>arrondissement</em> town hall, Paris</p>
 </div>
+
+</div>
+
+## <span class="entry-heading-reviewer">Reviewing</span>
+
+### Journals
+
+<div class="entry-list">
+
+<div class="entry">
+<p class="entry-title">Operations Research Letters</p>
+<p class="entry-meta"><span class="badge badge-reviewer">Reviewer</span> 2026</p>
+</div>
+
+</div>
+
+### Conferences
+
+<div class="entry-list">
+
+<!-- Add conference reviewing entries here, e.g.:
+<div class="entry">
+<p class="entry-title">Conference name</p>
+<p class="entry-meta"><span class="badge badge-reviewer">Reviewer</span> 2026</p>
+</div>
+-->
 
 </div>
