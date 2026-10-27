@@ -25,6 +25,8 @@
     - title: Weighted Fairness in Multi-User Earth Observation Satellite Scheduling
       authors: [Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet, Gauthier Picard]
       year: 2026
+      links:
+        arXiv: https://arxiv.org/pdf/2610.34282
 
 - id: international
   title: International Conferences with Proceedings
