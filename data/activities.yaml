@@ -22,17 +22,25 @@
 - id: talk
   title: Talks & Outreach
   items:
+    - title: FairPlay seminar
+      badge: Presentation
+      description: presented some works
+      details: "2026"
+      links:
+        Slides: files/seminars/FairPlay.pdf
     - title: AIExpress seminar
       badge: Presentation
       description: presented my work
       details: "2026"
+      links:
+        Slides: files/seminars/AIExpress.pdf
     - title: 4th Amsterdam/Saint-Étienne Workshop on Social Choice
       url: https://sites.google.com/view/amsterdam-saint-etienne-2026/
       badge: Poster
       description: Presented a poster
       details: "2026"
       links:
-        Poster: files/poster_saint_etienne2026.pdf
+        Poster: files/papers/poster_saint_etienne2026.pdf
     - title: Pari(s) des Sciences 2026
       badge: Outreach
       description: Popularization event explaining research to elementary and middle school students

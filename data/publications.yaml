@@ -65,18 +65,18 @@
       details: Arras
       year: 2026
       links:
-        PDF: files/lucet_et_al2026_PFIA.pdf
+        PDF: files/papers/lucet_et_al2026_PFIA.pdf
     - title: Partage équitable multiniveaux avec des préférences additives
       authors: [Maxime Lucet, Nawal Benabbou, Aurélie Beynier, Nicolas Maudet]
       venue: ROADEF
       details: Tours
       year: 2026
       links:
-        PDF: files/lucet_et_al2026_ROADEF.pdf
+        PDF: files/papers/lucet_et_al2026_ROADEF.pdf
     - title: "Environmental and climate mandatory disclosure: a paper tiger? Evidence from France"
       authors: [Mathieu Bernard, Bénédicte Coestier, Fabienne Llense, Maxime Lucet]
       venue: Digital Humanities
       details: Bordeaux
       year: 2023
       links:
-        PDF: files/bernard_et_al2024.pdf
+        PDF: files/papers/bernard_et_al2024.pdf
